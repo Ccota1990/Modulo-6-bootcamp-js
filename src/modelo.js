@@ -9,6 +9,6 @@ export const ES_EL_NUMERO_SECRETO = 3;
 export const GAME_OVER_MAXIMO_INTENTOS = 4;
 
 export const MAXIMO_INTENTOS = 5;
-export let numeroDeIntentos =0;
+export let numeroDeIntentos = 0;
 export const setNumeroDeIntentos = (nuevoNumeroDeIntentos) =>
     (numeroDeIntentos = nuevoNumeroDeIntentos);
